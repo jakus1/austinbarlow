@@ -64,3 +64,16 @@ p.dialogue{
 	margin-top:0.5em;
 	margin-bottom:0px;
 }
+.grandmastitle{
+	 font-size: 56px; 
+	 color:yellow;
+	text-align:center;
+}
+.blackround{
+	background-color:black;
+	background-image: url('../img/bg_sm.jpg');
+}
+
+.hwl{
+	color: yellow;
+}
